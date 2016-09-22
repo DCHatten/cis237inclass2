@@ -19,7 +19,7 @@ namespace cis237InClass2
             }
             else if (userInput == "2")
             {
-                //Do Tower of Hanoi
+                TowerOfHanoi towerOfHanoi = new TowerOfHanoi();
             }
             else
             {
